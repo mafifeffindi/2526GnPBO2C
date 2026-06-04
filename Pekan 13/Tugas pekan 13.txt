@@ -4,6 +4,7 @@ Folder Pengumpulan Tugas Pekan 13
 053_Ria Romadani Putri
 056_Shereen Anizma Maul
 057_Amirotul Subaidah
+063_Saskia Zalza B
 
 #Presentasi Coding pekan 15
 1. 052_Muhammad Hamzah Fansuri
@@ -15,3 +16,4 @@ Folder Pengumpulan Tugas Pekan 13
 7. 060_Anisa Lintang Karina
 8. 061_Kristianingsih
 9. 062_Indrawan Maharajasa A.L
+10. 064_Riska Khofivah S

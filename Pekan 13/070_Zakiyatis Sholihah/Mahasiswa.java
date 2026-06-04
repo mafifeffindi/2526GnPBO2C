@@ -1,0 +1,43 @@
+class Mahasiswa {
+    String nama;
+    String nim;
+    String jurusan;
+
+    // Constructor
+    public Mahasiswa(String nama, String nim, String jurusan) {
+        this.nama = nama;
+        this.nim = nim;
+        this.jurusan = jurusan;
+    }
+
+    // Method tampilData()
+    public void tampilData() {
+        System.out.println("Nama    : " + nama);
+        System.out.println("NIM     : " + nim);
+        System.out.println("Jurusan : " + jurusan);
+        System.out.println();
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+
+        // Object 1
+        Mahasiswa mhs1 = new Mahasiswa(
+                "Zakiyatis Sholiha",
+                "23001",
+                "Teknik Informatika"
+        );
+
+        // Object 2
+        Mahasiswa mhs2 = new Mahasiswa(
+                "Aisyah",
+                "23002",
+                "Sistem Informasi"
+        );
+
+        // Menampilkan data
+        mhs1.tampilData();
+        mhs2.tampilData();
+    }
+}
